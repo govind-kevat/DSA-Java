@@ -42,7 +42,7 @@ public static void main(String[] args) {
 
     stack.display();
 
-//    System.out.println(stack.pop());
-//    System.out.println(stack.pop());
+    System.out.println(stack.pop());
+   System.out.println(stack.pop());
 }
 }
