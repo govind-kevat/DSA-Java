@@ -1,4 +1,18 @@
+# IntelliJ IDEA
 .idea/
-out/
 *.iml
+
+# Java compiled files
+*.class
+out/
+
+# Maven
 target/
+
+# Gradle
+.gradle/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
